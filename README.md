@@ -1,3 +1,5 @@
+<img src="pricing_in_cal.jpg" alt="Description of the image">
+
 # My Experience with the "California House Pricing" Project
 
 I recently embarked on a fascinating journey through Chapter 2 of the Hands-on Machine Learning book, where we delved into the "California House Pricing" project. This project provided me with invaluable hands-on experience in machine learning techniques using Scikit-Learn, Keras, and TensorFlow. Along the way, I encountered numerous challenges and difficulties, each of which contributed to my growth as a data scientist.
