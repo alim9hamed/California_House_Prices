@@ -2,7 +2,7 @@
 
 # My Experience with the "California House Pricing" Project
 
-I recently embarked on a fascinating journey through Chapter 2 of the Hands-on Machine Learning book, where we delved into the "California House Pricing" project. This project provided me with invaluable hands-on experience in machine learning techniques using Scikit-Learn, Keras, and TensorFlow. Along the way, I encountered numerous challenges and difficulties, each of which contributed to my growth as a data scientist.
+I recently embarked on a fascinating journey through Chapter 2 of the Hands-on Machine Learning book, where we delved into the "California House Pricing" project. This project provided me with invaluable hands-on experience in machine learning techniques using Scikit-Learn. Along the way, I encountered numerous challenges and difficulties, each of which contributed to my growth as a data scientist.
 
 ## Exploratory Data Analysis (EDA)
 The initial stage involved extracting patterns and gaining a comprehensive understanding of the dataset. EDA was crucial in uncovering insights and identifying potential features for predicting house prices.
